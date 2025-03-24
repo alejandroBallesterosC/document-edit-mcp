@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+python-docx
+pandas
+openpyxl
+reportlab
+pdf2docx
+docx2pdf

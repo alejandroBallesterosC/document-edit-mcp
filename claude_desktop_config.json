@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "document_operations": {
+      "command": "python",
+      "args": [
+        "-m", 
+        "claude_document_mcp.server"
+      ],
+      "cwd": "/Users/jandro/Documents/Coding-Projects/mcp-servers/claude-document-mcp",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
