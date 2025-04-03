@@ -1,4 +1,5 @@
 # Claude Document MCP Server
+[![smithery badge](https://smithery.ai/badge/@alejandroBallesterosC/document-edit-mcp)](https://smithery.ai/server/@alejandroBallesterosC/document-edit-mcp)
 
 A Model Context Protocol (MCP) server that allows Claude Desktop to perform document operations on Microsoft Word, Excel, and PDF files.
 
@@ -21,6 +22,14 @@ A Model Context Protocol (MCP) server that allows Claude Desktop to perform docu
 ## Setup
 
 This MCP server requires Python 3.10 or higher.
+
+### Installing via Smithery
+
+To install Claude Document MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@alejandroBallesterosC/document-edit-mcp):
+
+```bash
+npx -y @smithery/cli install @alejandroBallesterosC/document-edit-mcp --client claude
+```
 
 ### Automatic Setup (Recommended)
 
