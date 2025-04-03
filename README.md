@@ -27,7 +27,8 @@ This MCP server requires Python 3.10 or higher.
 Run the setup script to automatically install dependencies and configure for Claude Desktop:
 
 ```bash
-cd claude-document-mcp
+git clone https://github.com/alejandroBallesterosC/document-edit-mcp
+cd document-edit-mcp
 ./setup.sh
 ```
 
