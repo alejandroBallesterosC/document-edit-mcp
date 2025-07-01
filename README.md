@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alejandroballesterosc-document-edit-mcp-badge.png)](https://mseep.ai/app/alejandroballesterosc-document-edit-mcp)
+
 # Claude Document MCP Server
 
 A Model Context Protocol (MCP) server that allows Claude Desktop to perform document operations on Microsoft Word, Excel, and PDF files.
