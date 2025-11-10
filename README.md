@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alejandroballesterosc-document-edit-mcp-badge.png)](https://mseep.ai/app/alejandroballesterosc-document-edit-mcp)
+
 # Claude Document MCP Server
 [![smithery badge](https://smithery.ai/badge/@alejandroBallesterosC/document-edit-mcp)](https://smithery.ai/server/@alejandroBallesterosC/document-edit-mcp)
 
